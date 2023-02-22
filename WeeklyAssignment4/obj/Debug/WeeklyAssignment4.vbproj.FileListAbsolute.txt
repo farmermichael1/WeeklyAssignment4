@@ -1,0 +1,12 @@
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\bin\Debug\WeeklyAssignment4.exe.config
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\bin\Debug\WeeklyAssignment4.exe
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\bin\Debug\WeeklyAssignment4.pdb
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\bin\Debug\WeeklyAssignment4.xml
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.vbproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.abnbReservation.resources
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.Resources.resources
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.vbproj.GenerateResource.cache
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.exe
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.xml
+C:\Users\Michael\source\repos\WeeklyAssignment4\WeeklyAssignment4\obj\Debug\WeeklyAssignment4.pdb
